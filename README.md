@@ -25,3 +25,11 @@ The Task Management Platform is designed to help users manage their tasks effect
 9)**Error Handling**: Comprehensive error handling and validation mechanisms are in place to manage invalid inputs and provide user-friendly error messages, enhancing the overall stability and reliability of the application.
 
 10)**Documentation**: Detailed documentation is provided for both the frontend and backend components. This includes setup instructions, API usage, and guidelines for contributing to the project.
+
+
+## Contributions and Queries
+
+We welcome contributions from the community to make this project more robust and versatile. For queries or contributions, please contact:
+
+-Krishna Mahalka
+- Email: [krishnamahalka3@gmail.com](krishnamahalka3@gmail.com)
